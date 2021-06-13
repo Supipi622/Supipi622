@@ -12,6 +12,9 @@ Engineering) currently attending the Informatics Institute of Technology (IIT).
  
     Water Quality Measuring Device -:
     Through this project, we check water quality using IOT device. The device contains pH, oxcegan, ultrasonic and turbidity sensors. All this data, water quality analysis and water level prediction will be sent directly to the mobile phone via text message at any time of the day as per the requirement of the registered user.
+    
+![Screenshot 2021-06-13 161713](https://user-images.githubusercontent.com/66358229/121804861-10789300-cc66-11eb-9dcf-52c6cc2aa948.png)
+
 
 
 
