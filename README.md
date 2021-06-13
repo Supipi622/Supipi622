@@ -1,13 +1,9 @@
 - 👋 Hi, I’m Supipi Nelumika👩‍🦱 . I am  university student (BSc in Software 
 Engineering) currently attending the Informatics Institute of Technology (IIT).
-
 - 👀 I’m interested in coding👩‍💻 & watching movies
-
 - 🌱 I’m currently learning nodejs,neural network
-
 - 📫 How to reach me supipinelumika8@gmail.com
 
- 
  - Projects Involved
  
     Water Quality Measuring Device -:
